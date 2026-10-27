@@ -198,7 +198,7 @@ ordering page and staff sidebar.
 
 Start with the [screenshot-guided tutorial](./TUTORIAL.md) for the full
 first-run walkthrough. It covers sign-up, setup, daily service, and the
-management tools with **56 screenshots of the app**.
+management tools with **80 screenshots of the app**.
 
 1. **Set up your restaurant.** Create the owner account, then enter your
    restaurant details, branch address, currency, timezone, tax settings, and
